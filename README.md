@@ -1,4 +1,4 @@
-## Hi, Am Swathi 👋
+## Hi, I'm Swathi 👋
 
 - 🔭 I’m currently working on an AI application using HTML, CSS, JavaScript and React.
 
